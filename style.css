@@ -1,0 +1,47 @@
+.square { 
+    background-color: rgb(9, 255, 0); 
+    width: 40px; 
+    height: 40px; 
+    padding: 10px; 
+    margin: 20px;
+    font-size: 13px; 
+    color: rgb(255, 255, 255); 
+    line-height: 30px; 
+} 
+
+.rectangle { 
+    background-color: rgb(144, 42, 165); 
+    width: 60px; 
+    height: 30px; 
+    padding: 10px; 
+    margin: 20px; 
+    font-size: 10px; 
+    color: rgb(30, 210, 66); 
+    line-height: 30px; 
+} 
+
+.circle { 
+    width: 60px; 
+    height: 60px; 
+    background-color: #0099ff;  
+    border-radius: 50%;  
+    padding: 10px; 
+    margin: 20px; 
+    font-size: 18px; 
+    color: rgb(5, 34, 96); 
+    text-align: center; 
+    line-height: 50px; 
+} 
+
+.oval { 
+    width: 75px; 
+    height: 30px; 
+    background-color: burlywood; 
+    border-radius: 100% / 100%; 
+    padding: 10px; 
+    margin: 20px; 
+    font-size: 20px; 
+    color: rgb(235, 235, 14); 
+    text-align: center; 
+    line-height: 30px; 
+}
